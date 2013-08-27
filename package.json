@@ -1,0 +1,9 @@
+{
+  "name": "spell-checker",
+  "fullName": "Spell Checker",
+  "id": "jid1-NZVtR9UozIY3uQ",
+  "description": "Simple add-on that changes the color of mispelled words to red.",
+  "author": "Rui Silva",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
